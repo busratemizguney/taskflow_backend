@@ -19,4 +19,4 @@ Bu proje, bir yazılım şirketinin ekip içerisindeki görevleri, projeleri ve 
 - `GET /api/tasks/:id` -> ID'si verilen görevin detayını getirir.
 - `POST /api/tasks` -> Yeni bir görev oluşturur.
 - `PUT /api/tasks/:id` -> Görev bilgilerini ve durumunu günceller.
-- `DELETE /api/tasks/:id` -> Görevi sistemden siler.git add Proje_Tanitim.md
+- `DELETE /api/tasks/:id` -> Görevi sistemden siler.
